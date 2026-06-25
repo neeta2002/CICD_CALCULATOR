@@ -5,10 +5,10 @@ def test_add():
 
 
 def test_subtract():
-    assert add(5, 2) == 3
+    assert subtract(5, 2) == 3
 
 def test_multiply():
-    assert add(2, 4) == 8
+    assert multiply(2, 4) == 8
 
 def test_divide():
-    assert add(10, 2) == 5
+    assert divide(10, 2) == 5
